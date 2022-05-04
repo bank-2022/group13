@@ -1,3 +1,5 @@
+//hienosäätö
+
 QT       += core gui \
     quick
 QT       +=network
